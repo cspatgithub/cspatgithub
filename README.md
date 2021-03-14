@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cspatgithub
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript (next, React)
 - 💞️ I’m looking to collaborate on major web projects in Ghana
 - 📫 How to reach me @cs_patterson - instagram
 
