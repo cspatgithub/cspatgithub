@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @cspatgithub
 - 👀 I’m interested in web development
+- 💻️ My current language set: HTML5, CSS3, Bootstrap4, Python (Django)
 - 🌱 I’m currently learning Javascript (next, React)
 - 💞️ I’m looking to collaborate on major web projects in Ghana
 - 📫 How to reach me @cs_patterson - instagram
